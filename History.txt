@@ -1,0 +1,114 @@
+
+ShopID[60][Eterna equipment shop] [tel] 
+
+mace -64	 //Prise 5200	 
+composite longbow-76	 //Prise 6500	 
+palm flower	-83 //Prise 6500	 
+battle shield-94	 //Prise 5200	 
+wolf head-423	 //Prise 1600	 
+scale coat-8218	//Prise 2800	 
+scale arm-8418	//Prise 1600	 
+serpent whiskers-8318	 //Prise 2000	 
+coif-8193	 //Prise 1600	 
+chest guard	-8293 //Prise 2800	 
+master brace-8493	 //Prise 1600	 
+fur cuices-2306	 //Prise 2000	item not found----------------------------- 
+Cleric Cap-8143	 //Prise 1600	 
+missionary robe-8243	 //Prise 2800	 
+rune bangle-8443	 //Prise 1600	 
+disciple shoes-8343	 //Prise 2000	 
+Blue-edged Helm-8163	 //Prise 1600	 
+legal coat-8268	 //Prise 2800	 
+knuckle guard-8468	 //Prise 1600	 
+shinguard-8368	 //Prise 2000	 
+village shirt-8538	 //Prise 1000	 
+composite vest-504	 //Prise 1000	 
+traveler's shirt-500	 //Prise 2000	 
+bandage cloth-8533	 //Prise 2000	 
+denim hose-509	 //Prise 1000	 
+seeker tights-510	 //Prise 1000	 
+tight pants-8668	 //Prise 2000	 
+village pants-8663	 //Prise 2000	 
+Nomad Cloak-8793	 //Prise 1000	 
+Shed Cloak-512	 //Prise 1000	 
+shoulder cape-8783	 //Prise 1000	 
+Wanderer's scarf-	 //Prise 1000	item not found-------------------------
+
+
+ShopID[44][Kittredge material shop] [white dragon temple] [shopping district]
+
+Enlightened Ring Plate-9455 //Prise 15000 
+Refined Paraffin-11784 //Prise  10000
+Soft Soil-17959 //Prise  3800
+Beast-Steak-1074 //Prise  100
+Animal Bone-7768 //Prise 100
+Animal Fur-7773 //Prise  100
+Clear Water-7824 //Prise  200
+Bronze Ore-7858 //Prise  150
+Fluorite-7893 //Prise  200
+Animal Pelt:7917 //Prise  100
+Thin Wood-7961 //Prise  150
+Baby Herb-7974 //Prise  100
+//many items not found   //now wip        ----------------------
+
+
+ShopID[52][Colette weapon shop] [white dragon temple] [shopping district]
+
+bronze sword-62	//Prise80	 
+landing sword-63	//Prise 2080	 
+round shield-76	// Prise40	 
+Perte	//Prise1480	item not found----------------------
+ShortBow-72	//Prise100	 
+stalking bow-74	// Prise2600	 
+Wood Staff-80	// Prise100	 
+blue cane-81	// Prise2600	 
+large wood-91	// Prise80	 
+oval shield-92	// Prise2080	 
+bronze rod-87	// Prise40	 
+spike rod-88	// Prise1480
+
+ShopID[53][Ferguson] [white dragon temple] [shopping district]
+
+horned helm	-422 //Prise 600	 
+bronze helm	-424 //Prise 1200	 
+hide armor -426	 //Prise 1050	 
+bronze plate-427	 //Prise 2100	 
+leather gloves-434	 //Prise 600	 
+bronze guard-435	 //Prise 1200	 
+Battle Greaves-430	 //Prise 750	 
+bronze shoes-431	 //Prise 1500	 
+leather cap-438 //Prise 600	 
+leather hood-439	 //Prise 1200	 
+breast armor-442	 //Prise 1050	 
+Copper Lorica-443	 //Prise 2100	 
+worker glove-450	 //Prise 600	 
+bronze bracers-451	 //Prise 1200	 
+leather bottom-446	 //Prise 750	
+chain legs-447	 //Prise 1500	 
+magicians hat -454	 //Prise 600	 
+Sorcerers Hood -	 //Prise 1200 item not found ------------------------------
+aprentices coat-458	 //Prise 1050	 
+harrow robe-459	 //Prise 2100	 
+bronze bangle-466	 //Prise 600	 
+tiger bangle-467	 //Prise 1200	 
+leather shoes-462	 //Prise 750	 
+Sorcerers Boots	 //Prise 1500 item not found ------------------------------ 
+round helm-470	 //Prise 600	 
+Garrisons helMet-471	 //Prise 1,200	 
+sage robe-474 //Prise 1050	 
+garrisons jacket-475	 //Prise 2100	 
+entry grab	 //Prise 600	  item not found ------------------------------
+hard knuckle-483	 //Prise 1200	 
+entry boots	-478 //Prise 750	 
+garrisons boots-479	 //Prise 1500	 
+supply vest-490	 //Prise 100	 
+supply bottom-493	 //Prise 100	 
+tunic-499	 //Prise 500	 
+coiled wear-8105	 //Prise 1000	 
+short pants-505	 //Prise 1000	 
+leather pants-508	 //Prise 1000	 
+leather cloak-511	 //Prise 1000	 
+lanthanum	 //Prise 100	  item not found ------------------------------
+
+	
+
