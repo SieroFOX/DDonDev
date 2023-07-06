@@ -1,3 +1,38 @@
+ShopID[100][Chunk item Shop] [Kinoza] ITEM SHOP READY HOW IN SHOPID 42
+//--------------------------------------------------------------------------------
+
+ShopID[45][Eugene general shop] [Kinoza] GENERAL SHOP READY HOW SHOPID 59
+//--------------------------------------------------------------------------------
+ShopID[107][Dorothea material shop] [Kinoza] MATERIAL SHOP READY
+
+big beast raw meat- 18661	 //Prise 1700	 
+red iron sand-7853	 //Prise 1000	 
+high quality processed wood-7972	 //Prise 15000
+//--------------------------------------------------------------------------------
+
+ShopID[59][Pedro's General Store] [tel] 
+
+healing potion-34	 //Prise 150	 
+exorcism medicinal bath	 //Prise 400	item not found------------------ 
+Medicinal bath for recovery-9373	 //Prise 400	 
+Amulet of War God	 //Prise 1000	 item not found------------------ 
+guardian deity amulet	 //Prise 1000	 
+Majin Amulet	 //Prise 1000	 
+spirit amulet	 //Prise 1000	 
+lantern spark	 //Prise 30	 
+ice ax	 //Prise 100	 
+hot gel	 //Prise 400	 
+anti-inflammatory ointment	 //Prise 400	 
+gala extract	 //Prise 150	 
+antidote	 //Prise 400	 
+eye drops	 //Prise 400	 
+quick medicine	 //Prise 400	 
+alarm clock	 //Prise 400	 
+wet cloth	 //Prise 200	 
+Oil removing cloth	 //Prise 200	 
+stimulant	 //Prise 300	 
+logging knife	 //Prise 100	
+//--------------------------------------------------------------------------------
 
 ShopID[60][Eterna equipment shop] [tel] 
 
@@ -33,6 +68,7 @@ Nomad Cloak-8793	 //Prise 1000
 Shed Cloak-512	 //Prise 1000	 
 shoulder cape-8783	 //Prise 1000	 
 Wanderer's scarf-	 //Prise 1000	item not found-------------------------
+//--------------------------------------------------------------------------------
 
 
 ShopID[44][Kittredge material shop] [white dragon temple] [shopping district]
@@ -49,7 +85,8 @@ Fluorite-7893 //Prise  200
 Animal Pelt:7917 //Prise  100
 Thin Wood-7961 //Prise  150
 Baby Herb-7974 //Prise  100
-//many items not found   //now wip        ----------------------
+//many items not found           ----------------------
+//--------------------------------------------------------------------------------
 
 
 ShopID[52][Colette weapon shop] [white dragon temple] [shopping district]
@@ -66,6 +103,7 @@ large wood-91	// Prise80
 oval shield-92	// Prise2080	 
 bronze rod-87	// Prise40	 
 spike rod-88	// Prise1480
+//--------------------------------------------------------------------------------
 
 ShopID[53][Ferguson] [white dragon temple] [shopping district]
 
