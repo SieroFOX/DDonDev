@@ -1,13 +1,19 @@
-ShopID[100][Chunk item Shop] [Kinoza] ITEM SHOP READY HOW IN SHOPID 42
+ShopID[61][Yanks Equipment Shop] [lynwood] READY but need check
+
+ShopID[106][Miranda Material Shop] [lynwood] READY but need check
+
 //--------------------------------------------------------------------------------
 
+ShopID[100][Chunk item Shop] [Kinoza] ITEM SHOP READY HOW IN SHOPID 42
+
 ShopID[45][Eugene general shop] [Kinoza] GENERAL SHOP READY HOW SHOPID 59
-//--------------------------------------------------------------------------------
+
 ShopID[107][Dorothea material shop] [Kinoza] MATERIAL SHOP READY
 
 big beast raw meat- 18661	 //Prise 1700	 
 red iron sand-7853	 //Prise 1000	 
 high quality processed wood-7972	 //Prise 15000
+
 //--------------------------------------------------------------------------------
 
 ShopID[59][Pedro's General Store] [tel] 
